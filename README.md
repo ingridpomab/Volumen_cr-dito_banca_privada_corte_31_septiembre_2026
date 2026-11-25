@@ -27,6 +27,8 @@ Se revisó:
 
 **1. Limpieza (Power Query)**
 Eliminar filas y columnas innecesarias, corregir tipos de datos, des pivotar columnas. Renombrar valores null a 0.
+**2. Visualización (PowerBi)**
+Carga de tablas limpias, edición de los gráficos interactivos.
 
 ## Hallazgos principales
 
