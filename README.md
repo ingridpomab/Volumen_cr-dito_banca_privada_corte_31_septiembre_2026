@@ -1,4 +1,4 @@
-# Dashboard de Volumen de Crédito en Ecuador, corte al 31 de septiembre 2026
+# Dashboard de Volumen de Crédito en Ecuador
 
 Dashboard sobre el volumen de crédito otorgado desde 2018, segmentado por provincia a nivel privado.
 
