@@ -2,7 +2,7 @@
 
 Dashboard en Power BI sobre el volumen de crédito otorgado desde 2018, segmentado por provincia a nivel privado.
 
-![Vista general del dashboard](imagenes/pagina1.png)
+![Vista general del dashboard](Credito_dashboard.PNG)
 
 ## Objetivo
 
@@ -42,9 +42,9 @@ Eliminar filas y columnas innecesarias, corregir tipos de datos, des pivotar col
 ## Estructura del repositorio
 
 ```
-├── Dashboard_Credito.pbix
+├── Credito.pbix
 ├── base_super_bancos/            # Estadísticas
-├── imagenes/         # Capturas del dashboard
+├── Credito_dashboard/         # Capturas del dashboard
 └── README.md
 ```
 
