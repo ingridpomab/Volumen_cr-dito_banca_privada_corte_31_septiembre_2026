@@ -1,6 +1,6 @@
 # Dashboard de Volumen de Crédito en Ecuador, corte al 31 de septiembre 2026
 
-Dashboard en Power BI sobre el volumen de crédito otorgado desde 2018, segmentado por provincia a nivel privado.
+Dashboard sobre el volumen de crédito otorgado desde 2018, segmentado por provincia a nivel privado.
 
 ![Vista general del dashboard](Credito_dashboard.PNG)
 
@@ -17,8 +17,6 @@ Se revisó:
 - **Enlace:** https://www.superbancos.gob.ec/estadisticas/portalestudios/
 - **Período:** enero 2018 a septiembre 2026
 - **Unidad:** USD
-  
-> Los datos pertenecen a la fuente citada. Este repositorio solo contiene la revisión y visualización.
 
 ## Herramientas
 
@@ -31,8 +29,6 @@ Se revisó:
 Eliminar filas y columnas innecesarias, corregir tipos de datos, des pivotar columnas. Renombrar valores null a 0.
 
 ## Hallazgos principales
-
-> Escribe 3 o 4 conclusiones **con cifras reales de tu dashboard**. Ejemplos de formato:
 
 - El volumen de crédito del Banco Pichincha se posiciona en primer puesto.
 - El monto de crédito otorgado al sector de minas y canteras incrementó 195,9% en el último año (sep 2025-2026).
